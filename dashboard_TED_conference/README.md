@@ -1,4 +1,4 @@
-# Исследование выступлений TED
+# Дашборд «Исследование выступлений TED»
 
 - **[Дашборд](https://public.tableau.com/app/profile/aleksandr.shevtsov/viz/analys_TED_conference/TED)**
 
